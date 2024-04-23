@@ -1,0 +1,30 @@
+GOOGLE DOC: https://docs.google.com/document/d/1AkR9FFLAcdGc_Zr4Uf2EnJSPtJzQaG9KhlVbmhj02Vo/edit
+
+CHATGPT
+- speech vs different types of debates etc 
+
+AI
+- grounding
+- content moderation 
+- learning, collection
+- testing, feedback loop
+
+speech recgonition
+- prob need better package
+- pass data to chatgpt
+- microphone shuts off??s
+
+nextjs
+- remove extra shit not being used
+
+UI
+phuckced
+handle start / stop recording
+
+
+MISC
+- what / how should we move to server?
+- where do we store the env keys in end?
+- categories or prompts? should we give a list of prompts?
+
+
